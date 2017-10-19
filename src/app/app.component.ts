@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
     {
      title: 'Howl`\'`s Moving Castle',
      released_on: '2004',
-     genre: 'Animation',
+     genre: ['Animation', 'Adventure', 'Family'],
      thumbnail: 'https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwii5_fk5PrWAhWCxFQKHTN-AK8QjRwIBw&url=http%3A%2F%2Fwww.fandango.com%2Fhowlsmovingcastlecastleinthesky_185420%2Fmoviephotosposters&psig=AOvVaw0-9T3Gkeu9JmDyewAqjsZO&ust=1508436908027652',
      description: 'When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.',
      production_company: 'Studio Ghibli',
@@ -33,9 +33,6 @@ export class AppComponent implements OnInit {
    }
   ];
 
-  movieList() {
-    this.movies.push();
-  }
 }
 
 

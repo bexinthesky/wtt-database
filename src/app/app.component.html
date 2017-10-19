@@ -1,3 +1,14 @@
-<div *ngFor="let Movie of movieList">
+<div *ngFor="let movie of movies" class="movies">
+  
+  <ul>
+    <li>
+      <p>{{ movie.title }}</p>
+      <img src="{{ movie.thumbnail }}" alt="movie-pic">
+      <p>{{ movie.released_on }}</p>
+      <p>{{ movie.genre }}</p>
+      <p>{{ movie.production_company }}</p>
+      <p>{{ movie.description }}</p>
+    </li>
+  </ul>
 
 </div>
