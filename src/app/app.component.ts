@@ -1,10 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent implements OnInit {
   public movies: Array<Movie>;
   public tv_show: Array<Tv>;
@@ -83,11 +84,6 @@ export class AppComponent implements OnInit {
 }
 
 
-
-
-
-
-
 export class Movie {
   title: string;
   released_on: string;
@@ -100,9 +96,6 @@ export class Movie {
   rating: string;
   director: string;
 }
-
-
-
 
 export class Tv {
   title: string;
@@ -119,4 +112,4 @@ export class Book {
   genre: any;
   thumbnail: string;
   description: string;
-}
+
