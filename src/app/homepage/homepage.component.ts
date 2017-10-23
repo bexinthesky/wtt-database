@@ -55,7 +55,7 @@ export class HomepageComponent implements OnInit {
          'Hiyao Miyazaki',
          'Dianna Wynne Jones',
        ],
-       thumbnail: 'https://static2.opensubtitles.org/gfx/thumbs/9/4/1/7/0347149.jpg',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BZTRhY2QwM2UtNWRlNy00ZWQwLTg3MjktZThmNjQ3NTdjN2IxXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UY268_CR5,0,182,268_AL_.jpg',
      },
      {
        title: 'She\'s The Man',
@@ -120,7 +120,7 @@ export class HomepageComponent implements OnInit {
          'Sarah Dessen',
          'Neena Beber',
        ],
-       thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyLvXC69FSqeDU6WG3IDZqYUJc4EpsIIHdhe9c7YLz8csp7QOq',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BOTMzOTk0NDA4OV5BMl5BanBnXkFtZTYwNTY5NjY3._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Digimon: The Movie',
@@ -166,7 +166,7 @@ export class HomepageComponent implements OnInit {
          'Jeff Nimoy',
          'Bob Buchholz',
        ],
-       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4NTYxMTk5NV5BMl5BanBnXkFtZTYwMDY3NTA5._V1_.jpg',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NTAyMjUxMl5BMl5BanBnXkFtZTYwOTAwODQ3._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Saved',
@@ -225,7 +225,7 @@ export class HomepageComponent implements OnInit {
        rating: 'R',
        director: 'Quentin Tarantino',
        writing_credits: 'Quentin Tarantino',
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BYTczMGFiOWItMjA3Mi00YTU5LWIwMDgtYTEzNjRkNDkwMTE2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Kill Bill: Volume 2',
@@ -254,7 +254,7 @@ export class HomepageComponent implements OnInit {
        rating: 'R',
        director: 'Quentin Tarantino',
        writing_credits: 'Quentin Tarantino',
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Pride & Prejudice',
@@ -360,7 +360,7 @@ export class HomepageComponent implements OnInit {
        rating: 'PG',
        director: 'Rob Reiner',
        writing_credits: 'William Goldman',
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Guardians of the Galaxy',
@@ -408,7 +408,7 @@ export class HomepageComponent implements OnInit {
          'Steve Gerber',
          'Val Mayerik',
        ],
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Guardians of the Galaxy Vol. 2',
@@ -442,7 +442,7 @@ export class HomepageComponent implements OnInit {
          'Steve Gerber',
          'Val Mayerik',
        ],
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Pride and Prejudice and Zombies',
@@ -484,7 +484,7 @@ export class HomepageComponent implements OnInit {
          'Jane Austen',
          'Seth Grahame-Smith',
        ],
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzA3NzYxMl5BMl5BanBnXkFtZTgwMzQ0NDA5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Easy A',
@@ -514,7 +514,7 @@ export class HomepageComponent implements OnInit {
        rating: 'PG-13',
        director: 'Will Gluck',
        writing_credits: 'Bert V. Royal',
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Fired Up!',
@@ -551,7 +551,7 @@ export class HomepageComponent implements OnInit {
        rating: 'PG-13',
        director: 'Will Gluck',
        writing_credits: 'Will Gluck',
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MDMxMTQ0M15BMl5BanBnXkFtZTcwNTA0MDAyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Ant-Man',
@@ -589,7 +589,7 @@ export class HomepageComponent implements OnInit {
          'Larry Lieber',
          'Jack Kirby',
        ],
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
        title: 'Captain America: Civil War',
@@ -639,7 +639,7 @@ export class HomepageComponent implements OnInit {
          'Mark Millar',
          'Steven McNiven',
        ],
-       thumbnail: '',
+       thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
       title: 'Captain America: The First Avenger',
@@ -681,7 +681,7 @@ export class HomepageComponent implements OnInit {
         'Joe Simon',
         'Jack Kirby',
       ],
-      thumbnail: '',
+      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
      },
      {
       title: 'Captain America: The Winter Soldier',
@@ -723,7 +723,7 @@ export class HomepageComponent implements OnInit {
         'Joe Simon',
         'Jack Kirby',
       ],
-      thumbnail: '',
+      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY268_CR1,0,182,268_AL_.jpg',
      },
      {
       title: '',
