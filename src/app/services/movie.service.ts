@@ -17,7 +17,7 @@ export class MovieService {
     return this.movieList;
   }
 
-  public getMovieById(id: string): Movie {
+  public getMovieById(id: number): Movie {
 this.movieList.forEach(movie => {
 if (movie.id === id) { this.movie = movie; }
 });
