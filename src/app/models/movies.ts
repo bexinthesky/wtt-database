@@ -42,7 +42,7 @@ export const Movies: Array<Movie> = [
        'Dianna Wynne Jones',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BZTRhY2QwM2UtNWRlNy00ZWQwLTg3MjktZThmNjQ3NTdjN2IxXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UY268_CR5,0,182,268_AL_.jpg',
-     id: '1',
+     id: 1,
    },
    {
      title: 'She\'s The Man',
@@ -77,7 +77,7 @@ export const Movies: Array<Movie> = [
        'Kirsten Smith',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyMzAzMDk1Ml5BMl5BanBnXkFtZTcwNjg0OTEzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '20',
+     id: 2,
    },
    {
      title: 'How to Deal',
@@ -109,7 +109,7 @@ export const Movies: Array<Movie> = [
        'Neena Beber',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BOTMzOTk0NDA4OV5BMl5BanBnXkFtZTYwNTY5NjY3._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '2',
+     id: 3,
    },
    {
      title: 'Digimon: The Movie',
@@ -156,7 +156,7 @@ export const Movies: Array<Movie> = [
        'Bob Buchholz',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NTAyMjUxMl5BMl5BanBnXkFtZTYwOTAwODQ3._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '3',
+     id: 4,
    },
    {
      title: 'Saved',
@@ -189,7 +189,7 @@ export const Movies: Array<Movie> = [
        'Michael Urban',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1ODM1ODU1N15BMl5BanBnXkFtZTcwMjI5MzA3NA@@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '4',
+     id: 5,
    },
    {
      title: 'Kill Bill: Volume 1',
@@ -217,7 +217,7 @@ export const Movies: Array<Movie> = [
      director: 'Quentin Tarantino',
      writing_credits: 'Quentin Tarantino',
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BYTczMGFiOWItMjA3Mi00YTU5LWIwMDgtYTEzNjRkNDkwMTE2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '5',
+     id: 6,
    },
    {
      title: 'Kill Bill: Volume 2',
@@ -247,7 +247,7 @@ export const Movies: Array<Movie> = [
      director: 'Quentin Tarantino',
      writing_credits: 'Quentin Tarantino',
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '6',
+     id: 7,
    },
    {
      title: 'Pride & Prejudice',
@@ -286,7 +286,7 @@ export const Movies: Array<Movie> = [
        'Deborah Moggach',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '7',
+     id: 8,
    },
    {
      title: 'Atomic Blonde',
@@ -324,7 +324,7 @@ export const Movies: Array<Movie> = [
        'Sam Hart',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '8',
+     id: 9,
    },
    {
      title: 'The Princess Bride',
@@ -356,7 +356,7 @@ export const Movies: Array<Movie> = [
      director: 'Rob Reiner',
      writing_credits: 'William Goldman',
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '9',
+     id: 10,
    },
    {
      title: 'Guardians of the Galaxy',
@@ -405,7 +405,7 @@ export const Movies: Array<Movie> = [
        'Val Mayerik',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '10',
+     id: 11,
    },
    {
      title: 'Guardians of the Galaxy Vol. 2',
@@ -440,7 +440,7 @@ export const Movies: Array<Movie> = [
        'Val Mayerik',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '11',
+     id: 12,
    },
    {
      title: 'Pride and Prejudice and Zombies',
@@ -483,7 +483,7 @@ export const Movies: Array<Movie> = [
        'Seth Grahame-Smith',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzA3NzYxMl5BMl5BanBnXkFtZTgwMzQ0NDA5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '12',
+     id: 13,
    },
    {
      title: 'Easy A',
@@ -514,7 +514,7 @@ export const Movies: Array<Movie> = [
      director: 'Will Gluck',
      writing_credits: 'Bert V. Royal',
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '13',
+     id: 14,
    },
    {
      title: 'Fired Up!',
@@ -552,7 +552,7 @@ export const Movies: Array<Movie> = [
      director: 'Will Gluck',
      writing_credits: 'Will Gluck',
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MDMxMTQ0M15BMl5BanBnXkFtZTcwNTA0MDAyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '14',
+     id: 15,
    },
    {
      title: 'Ant-Man',
@@ -591,7 +591,7 @@ export const Movies: Array<Movie> = [
        'Jack Kirby',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '15',
+     id: 16,
    },
    {
      title: 'Captain America: Civil War',
@@ -642,7 +642,7 @@ export const Movies: Array<Movie> = [
        'Steven McNiven',
      ],
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg',
-     id: '16',
+     id: 17,
    },
    {
     title: 'Captain America: The First Avenger',
@@ -685,7 +685,7 @@ export const Movies: Array<Movie> = [
       'Jack Kirby',
     ],
     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
-    id: '17',
+    id: 18,
    },
    {
     title: 'Captain America: The Winter Soldier',
@@ -728,7 +728,7 @@ export const Movies: Array<Movie> = [
       'Jack Kirby',
     ],
     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY268_CR1,0,182,268_AL_.jpg',
-    id: '18',
+    id: 19,
    },
    {
     title: 'Dear Eleanor',
@@ -756,7 +756,7 @@ export const Movies: Array<Movie> = [
       'Amy Garcia',
     ],
     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMDMxNjAyNjctZDk2MS00MTFlLWJjNWItNWY3MmJmZTg4ZWQxXkEyXkFqcGdeQXVyMjA1MzUyODk@._V1_UY268_CR3,0,182,268_AL_.jpg',
-    id: '19',
+    id: 20,
    },
   //  {
   //   title: '',

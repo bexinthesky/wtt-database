@@ -10,5 +10,5 @@ export class Movie {
   director: any;
   writing_credits: any;
   thumbnail: string;
-  id: string;
+  id: number;
 }
