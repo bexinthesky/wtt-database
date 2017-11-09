@@ -26,3 +26,12 @@ export class ItemDetailComponent implements OnInit {
   }
 
 }
+
+// public getMovieById(id: number): Movie {
+//   this.movieList.forEach(movie => {
+//     if (movie.id === id) { this.movie = movie; }
+//   });
+
+//   return this.movie;
+// tslint:disable-next-line:eofline
+// }
