@@ -1,6 +1,24 @@
+.container_fill {
+  background-color: #ff9966;
+  height: 45px;
+}
+
 .nav-pills>li>a.active,
 .nav-pills>li>a.active:focus,
 .nav-pills>li>a.active:hover {
-  color: #fff;
-  background-color: #337ab7 ;
+  color: #000;
+  background-color: #ffaa80;
+}
+
+a {
+  background-color: transparent;
+  color: #000;
+  text-decoration: none;
+}
+
+.nav-pills>li>a:focus,
+.nav-pills>li>a:hover {
+  color: #000;
+  background-color: #ffaa80;
+  height: 45px;
 }
