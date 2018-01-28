@@ -1,6 +1,6 @@
 export class Movie {
   title: string;
-  released_on: string;
+  released_on: number;
   genre: any;
   description: any;
   actors: any;

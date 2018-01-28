@@ -1,6 +1,47 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Merriweather+Sans:400,700');
+
+.container_fill {
+  background-color: #ff9966;
+  height: 45px;
+}
+
+li>h3.db-title {
+  margin-right: 135px;
+}
+
+.db-title {
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 25px;
+  margin-top: 10px;
+  padding: 0px 0px 15px 0px;
+  font-family: 'Bowlby One SC', cursive;
+}
+
 .nav-pills>li>a.active,
 .nav-pills>li>a.active:focus,
 .nav-pills>li>a.active:hover {
-  color: #fff;
-  background-color: #337ab7 ;
+  color: #000;
+  background-color: #ffaa80;
+}
+
+a {
+  background-color: transparent;
+  color: #000;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 700px;
+}
+
+.nav>li>a {
+  padding: 8px;
+}
+
+.nav-pills>li>a:focus,
+.nav-pills>li>a:hover {
+  color: #000;
+  background-color: #ffaa80;
+  height: 45px;
 }

@@ -3,12 +3,13 @@ import { Movie } from './movie';
 export const Movies: Array<Movie> = [
     {
      title: 'Howl\'s Moving Castle',
-     released_on: '2004',
+     released_on: 2004,
      genre: [
        'Animation',
        'Adventure',
        'Family',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.',
      actors: [
        'Christian Bale',
@@ -41,17 +42,19 @@ export const Movies: Array<Movie> = [
        'Hiyao Miyazaki',
        'Dianna Wynne Jones',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BZTRhY2QwM2UtNWRlNy00ZWQwLTg3MjktZThmNjQ3NTdjN2IxXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UY268_CR5,0,182,268_AL_.jpg',
      id: 1,
    },
    {
      title: 'She\'s The Man',
-     released_on: '2006',
+     released_on: 2006,
      genre: [
        'Comedy',
        'Romance',
        'Sport',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'When her brother decides to ditch for a couple weeks, Viola heads over to his elite boarding school, disguised as him, and proceeds to fall for one of his soccer teammates, and soon learns she\'s not the only one with romantic troubles.',
      actors: [
        'Amanda Bynes',
@@ -76,17 +79,19 @@ export const Movies: Array<Movie> = [
        'Karen McCullah',
        'Kirsten Smith',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyMzAzMDk1Ml5BMl5BanBnXkFtZTcwNjg0OTEzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 2,
    },
    {
      title: 'How to Deal',
-     released_on: '2003',
+     released_on: 2003,
      genre: [
        'Comedy',
        'Drama',
        'Romance',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'For teenager Halley, love seems like an alien concept. Her mother, Lydia, and father, Len, are divorced. Lydia doesn\'t date, and Len is now seeing a younger woman. Halley\'s sister, Ashley, is about to get married and doesn\'t realize that her fiancé is not the man of her dreams. But, when Halley meets edgy Macon, she learns what love is really all about.',
      actors: [
        'Mandy Moore',
@@ -108,17 +113,19 @@ export const Movies: Array<Movie> = [
        'Sarah Dessen',
        'Neena Beber',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BOTMzOTk0NDA4OV5BMl5BanBnXkFtZTYwNTY5NjY3._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 3,
    },
    {
      title: 'Digimon: The Movie',
-     released_on: '2000',
+     released_on: 2000,
      genre: [
        'Animation',
        'Action',
        'Adventure',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'Three different stories involving digital creatures collide together: 1. The Digidestined-kids chosen to save the digital world-come face to face with their first Digimon. 2. When a powerful new internet Digimon hatches and begins to consume data at an alarming rate, the Digidestined must put an end to the destruction before the damage becomes irreversable and worldwide communication halts forever. 3. As computer-based missiles are launched, and a wayward Digimon kidnaps the Digidestined, only the combined efforts of a worldwide network of kids and a new group of "Digidestined" can rescue the others and stop global disaster.',
      actors: [
        'Lara Jill Miller',
@@ -155,16 +162,18 @@ export const Movies: Array<Movie> = [
        'Jeff Nimoy',
        'Bob Buchholz',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NTAyMjUxMl5BMl5BanBnXkFtZTYwOTAwODQ3._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 4,
    },
    {
      title: 'Saved',
-     released_on: '2004',
+     released_on: 2004,
      genre: [
        'Comedy',
        'Drama',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'When a girl attending a Christian high school becomes pregnant, she finds herself ostracized and demonized, as all of her former friends turn on her.',
      actors: [
        'Jena Malone',
@@ -188,17 +197,19 @@ export const Movies: Array<Movie> = [
        'Brian Dannelly',
        'Michael Urban',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1ODM1ODU1N15BMl5BanBnXkFtZTcwMjI5MzA3NA@@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 5,
    },
    {
      title: 'Kill Bill: Volume 1',
-     released_on: '2003',
+     released_on: 2003,
      genre: [
        'Action',
        'Crime',
        'Thriller',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.',
      actors: [
        'Uma Thurman',
@@ -216,17 +227,19 @@ export const Movies: Array<Movie> = [
      rating: 'R',
      director: 'Quentin Tarantino',
      writing_credits: 'Quentin Tarantino',
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BYTczMGFiOWItMjA3Mi00YTU5LWIwMDgtYTEzNjRkNDkwMTE2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 6,
    },
    {
      title: 'Kill Bill: Volume 2',
-     released_on: '2004',
+     released_on: 2004,
      genre: [
        'Action',
        'Crime',
        'Thriller',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd and the treacherous, one-eyed Elle.',
      actors: [
        'Uma Thurman',
@@ -246,16 +259,18 @@ export const Movies: Array<Movie> = [
      rating: 'R',
      director: 'Quentin Tarantino',
      writing_credits: 'Quentin Tarantino',
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 7,
    },
    {
      title: 'Pride & Prejudice',
-     released_on: '2005',
+     released_on: 2005,
      genre: [
        'Drama',
        'Romance',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?',
      actors: [
        'Keira Knightly',
@@ -285,17 +300,19 @@ export const Movies: Array<Movie> = [
        'Jane Austen',
        'Deborah Moggach',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 8,
    },
    {
      title: 'Atomic Blonde',
-     released_on: '2017',
+     released_on: 2017,
      genre: [
        'Action',
        'Mystery',
        'Thriller',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.',
      actors: [
        'Charlize Theron',
@@ -323,12 +340,13 @@ export const Movies: Array<Movie> = [
        'Antony Johnston',
        'Sam Hart',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 9,
    },
    {
      title: 'The Princess Bride',
-     released_on: '1987',
+     released_on: 1987,
      genre: [
        'Adventure',
        'Family',
@@ -355,17 +373,19 @@ export const Movies: Array<Movie> = [
      rating: 'PG',
      director: 'Rob Reiner',
      writing_credits: 'William Goldman',
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 10,
    },
    {
      title: 'Guardians of the Galaxy',
-     released_on: '2014',
+     released_on: 2014,
      genre: [
        'Action',
        'Adventure',
        'Sci-Fi',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.',
      actors: [
        'Chris Pratt',
@@ -404,17 +424,19 @@ export const Movies: Array<Movie> = [
        'Steve Gerber',
        'Val Mayerik',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 11,
    },
    {
      title: 'Guardians of the Galaxy Vol. 2',
-     released_on: '2017',
+     released_on: 2017,
      genre: [
        'Action',
        'Adventure',
        'Sci-Fi',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill\'s true parentage.',
      actors: '',
      production_companies: [
@@ -439,17 +461,19 @@ export const Movies: Array<Movie> = [
        'Steve Gerber',
        'Val Mayerik',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 12,
    },
    {
      title: 'Pride and Prejudice and Zombies',
-     released_on: '2016',
+     released_on: 2016,
      genre: [
        'Action',
        'Horror',
        'Romance',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'Five sisters in 19th century England must cope with the pressures to marry while protecting themselves from a growing population of zombies.',
      actors: [
        'Lily James',
@@ -482,12 +506,13 @@ export const Movies: Array<Movie> = [
        'Jane Austen',
        'Seth Grahame-Smith',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzA3NzYxMl5BMl5BanBnXkFtZTgwMzQ0NDA5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 13,
    },
    {
      title: 'Easy A',
-     released_on: '2010',
+     released_on: 2010,
      genre: [
        'Comedy',
        'Drama',
@@ -513,13 +538,15 @@ export const Movies: Array<Movie> = [
      rating: 'PG-13',
      director: 'Will Gluck',
      writing_credits: 'Bert V. Royal',
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 14,
    },
    {
      title: 'Fired Up!',
-     released_on: '2009',
+     released_on: 2009,
      genre: 'Comedy',
+     // tslint:disable-next-line:max-line-length
      description: 'The two most popular guys in high school decide to ditch football camp for cheerleader camp. For the girls and for the glory.',
      actors: [
        'Nicholas D\'Agosto',
@@ -551,17 +578,19 @@ export const Movies: Array<Movie> = [
      rating: 'PG-13',
      director: 'Will Gluck',
      writing_credits: 'Will Gluck',
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MDMxMTQ0M15BMl5BanBnXkFtZTcwNTA0MDAyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 15,
    },
    {
      title: 'Ant-Man',
-     released_on: '2015',
+     released_on: 2015,
      genre: [
        'Action',
        'Adventure',
        'Comedy',
      ],
+     // tslint:disable-next-line:max-line-length
      description: 'Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.',
      actors: [
        'Paul Rudd',
@@ -590,12 +619,13 @@ export const Movies: Array<Movie> = [
        'Larry Lieber',
        'Jack Kirby',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 16,
    },
    {
      title: 'Captain America: Civil War',
-     released_on: '2016',
+     released_on: 2016,
      genre: [
        'Action',
        'Adventure',
@@ -641,17 +671,19 @@ export const Movies: Array<Movie> = [
        'Mark Millar',
        'Steven McNiven',
      ],
+     // tslint:disable-next-line:max-line-length
      thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg',
      id: 17,
    },
    {
     title: 'Captain America: The First Avenger',
-    released_on: '2011',
+    released_on: 2011,
     genre: [
       'Action',
       'Adventure',
       'Sci-Fi',
     ],
+    // tslint:disable-next-line:max-line-length
     description: 'Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum." But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.',
     actors: [
       'Chris Evans',
@@ -684,17 +716,19 @@ export const Movies: Array<Movie> = [
       'Joe Simon',
       'Jack Kirby',
     ],
+    // tslint:disable-next-line:max-line-length
     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
     id: 18,
    },
    {
     title: 'Captain America: The Winter Soldier',
-    released_on: '2014',
+    released_on: 2014,
     genre: [
       'Action',
       'Adventure',
       'Sci-Fi',
     ],
+    // tslint:disable-next-line:max-line-length
     description: 'As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.',
     actors: [
       'Chris Evans',
@@ -727,17 +761,19 @@ export const Movies: Array<Movie> = [
       'Joe Simon',
       'Jack Kirby',
     ],
+    // tslint:disable-next-line:max-line-length
     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY268_CR1,0,182,268_AL_.jpg',
     id: 19,
    },
    {
     title: 'Dear Eleanor',
-    released_on: '2016',
+    released_on: 2016,
     genre: [
       'Adventure',
       'Comedy',
       'Drama',
     ],
+    // tslint:disable-next-line:max-line-length
     description: 'Two teenage girls travel across the U.S. in 1962, during the chaos of the Cuban missile crisis, in search of Eleanor Roosevelt.',
     actors: [
       'Liana Liberato',
@@ -755,140 +791,260 @@ export const Movies: Array<Movie> = [
       'Cecilia Contreras',
       'Amy Garcia',
     ],
+    // tslint:disable-next-line:max-line-length
     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMDMxNjAyNjctZDk2MS00MTFlLWJjNWItNWY3MmJmZTg4ZWQxXkEyXkFqcGdeQXVyMjA1MzUyODk@._V1_UY268_CR3,0,182,268_AL_.jpg',
     id: 20,
    },
+   {
+    title: 'A Cinderella Story',
+    released_on: 2004,
+    genre: [
+      'Comedy',
+      'Family',
+      'Romance',
+    ],
+    // tslint:disable-next-line:max-line-length
+    description: 'Routinely exploited by her wicked stepmother, the downtrodden Sam Montgomery is excited about the prospect of meeting her Internet beau at the school\'s Halloween dance.',
+    actors: [
+      'Hilary Duff',
+      'Jennifer Coolidge',
+      'Chad Michael Murray',
+      'Dan Byrd',
+      'Regina King',
+      'Julie Gonzalo',
+      'Madeline Zima',
+      'Andrea Avery Ray',
+      'Paul Rodriguez',
+      'Erica Hubbard',
+      'Simon Helberg',
+      'Bradley Joseph',
+      'JD Pardo',
+      'Aimee-Lynn Chadwick',
+      'Whip Hubley',
+      'Kevin Kilner',
+    ],
+    production_companies: [
+      'Warner Bros',
+      'Gaylord Films',
+      'Clifford Werber Productions',
+      'Dylan Sellers Productions',
+    ],
+    run_time: '1 Hour 35 Minutes',
+    rating: 'PG',
+    director: 'Mark Rosman',
+    writing_credits: 'Leigh Dunlap',
+    // tslint:disable-next-line:max-line-length
+    thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NDI0OTkwNDNeQTJeQWpwZ15BbWU3MDQ3Nzc1MjE@._V1_UY268_CR0,0,182,268_AL_.jpg',
+    id: 21,
+   },
+   {
+     title: 'Juno',
+     released_on: 2007,
+     genre: [
+       'Comedy',
+       'Drama',
+     ],
+     description: 'Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child.',
+     actors: [
+       'Ellen Page',
+       'Michael Cera',
+       'Jennifer Garner',
+       'Jason Bateman',
+       'Allison Janney',
+       'J.K. Simmons',
+       'Olivia Thirlby',
+       'Sierra Pitkin',
+       'Rainn Wilson',
+     ],
+     production_companies: [
+       'Fox Searchlight Pictures',
+       'Mandate Pictures',
+       'Mr. Mudd',
+     ],
+     run_time: '1 Hour 36 Minutes',
+     rating: 'PG-13',
+     director: 'Jason Reitman',
+     writing_credits: 'Diablo Cody',
+     // tslint:disable-next-line:max-line-length
+     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_UX182_CR0,0,182,268_AL_.jpg',
+     id: 22,
+   },
+   {
+     title: 'Hot Fuzz',
+     released_on: 2007,
+     genre: [
+       'Action',
+       'Comedy',
+     ],
+     description: 'A skilled London police officer is transferred to a small town that\'s harbouring a dark secret.',
+     actors: [
+       'Simon Pegg',
+       'Nick Frost',
+       'Jim Broadbent',
+       'Eric Mason',
+       'Billie Whitelaw',
+       'Peter Wright',
+       'Julia Deakin',
+       'Bill Bailey',
+       'Paul Freeman',
+       'Trevor Nichols',
+       'Elizabeth Elvin',
+       'Stuart Wilson',
+       'Lorraine Hilton',
+       'Kevin Wilson',
+       'Nicholas Wilson',
+       'Timothy Dalton',
+       'Paddy Cosidine',
+       'Rafe Spall',
+       'Kevin Eldon',
+       'Karl Johnson',
+       'Olivia Colman',
+       'Tom Weaver',
+       'Patricia Franklin',
+       'Anne Reid',
+       'Stephan Merchant',
+       'Kenneth Cranham',
+       'Adam Buxton',
+       'Tim Barlow',
+       'Ben McKay',
+       'Rory McCann',
+       'Alice Lowe',
+       'Ron Cook',
+       'David Threlfall',
+       'Lucy Punch',
+       'David Bradley',
+       'Maria Charles',
+       'Alexander King',
+       'Martin Freeman',
+       'Bill Nighy',
+     ],
+     production_companies: [
+       'Universal Pictures',
+       'StudioCanal',
+       'Working Title Films',
+       'Big Talk Productions',
+       'Ingenious Film Partners',
+     ],
+     run_time: '2 Hours 1 Minute',
+     rating: 'R',
+     director: 'Edgar Wright',
+     writing_credits: [
+       'Edgar Wright',
+       'Simon Pegg',
+     ],
+     // tslint:disable-next-line:max-line-length
+     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMzg4MDJhMDMtYmJiMS00ZDZmLThmZWUtYTMwZDM1YTc5MWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+     id: 23,
+   },
+   {
+     title: 'Wonder Woman',
+     released_on: 2017,
+     genre: [
+       'Action',
+       'Adventure',
+       'Fantasy',
+     ],
+     // tslint:disable-next-line:max-line-length
+     description: 'When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.',
+     actors: [
+       'Gal Gadot',
+       'Chris Pine',
+       'Robin Wright',
+       'Danny Huston',
+       'David Thewlis',
+       'Connie Nielsen',
+       'Elena Anaya',
+       'Lucy Davis',
+       'Saïd Taghmaoui',
+       'Ewen Bremner',
+       'Eugene Brave Rock',
+       'Lisa Loven Kongsli',
+     ],
+     production_companies: [
+       'Warner Bros.',
+       'Atlas Entertainment',
+       'Cruel & Unusual Films',
+       'DC Entertainment',
+       'Dune Entertainment',
+       'Tencent Pictures',
+       'Wanda Pictures',
+     ],
+     run_time: '2 Hours 21 Minutes',
+     rating: 'PG-13',
+     director: 'Patty Jenkins',
+     writing_credits: [
+       'Allan Heinberg',
+       'Zack Snyder',
+       'Allan Heinberg',
+       'Jason Fuchs',
+       'William Moulton Marston',
+     ],
+     // tslint:disable-next-line:max-line-length
+     thumbnail: 'https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+     id: 24,
+   },
   //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
+  //    title: '',
+  //    released_on: 2000,
+  //    genre: [],
+  //    description: '',
+  //    actors: [],
+  //    production_companies: [],
+  //    run_time: '',
+  //    rating: '',
+  //    director: '',
+  //    writing_credits: [],
+  //    thumbnail: '',
+  //    id: 25,
   //  },
   //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
+  //    title: '',
+  //    released_on: 2000,
+  //    genre: [],
+  //    description: '',
+  //    actors: [],
+  //    production_companies: [],
+  //    run_time: '',
+  //    rating: '',
+  //    director: '',
+  //    writing_credits: [],
+  //    thumbnail: '',
+  //    id: 26,
   //  },
   //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
+  //    title: '',
+  //    released_on: 2000,
+  //    genre: [],
+  //    description: '',
+  //    actors: [],
+  //    production_companies: [],
+  //    run_time: '',
+  //    rating: '',
+  //    director: '',
+  //    writing_credits: [],
+  //    thumbnail: '',
+  //    id: 27,
   //  },
   //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
-  //  },
-  //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
-  //  },
-  //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
-  //  },
-  //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
-  //  },
-  //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
-  //  },
-  //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
-  //  },
-  //  {
-  //   title: '',
-  //   released_on: '',
-  //   genre: [],
-  //   description: '',
-  //   actors: [],
-  //   production_companies: [],
-  //   run_time: '',
-  //   rating: '',
-  //   director: '',
-  //   writing_credits: [],
-  //   thumbnail: '',
+  //    title: '',
+  //    released_on: 2000,
+  //    genre: [],
+  //    description: '',
+  //    actors: [],
+  //    production_companies: [],
+  //    run_time: '',
+  //    rating: '',
+  //    director: '',
+  //    writing_credits: [],
+  //    thumbnail: '',
+  //    id: 28,
   //  },
 
-   //little mermaid, beauty & the beast x 2, juno, a cinderella story,   marvel, star wars, house bunny,  penelope
+
+   // tslint:disable-next-line:comment-format
+   //little mermaid, beauty & the beast x 2, marvel, star wars, house bunny,  penelope
+   // tslint:disable-next-line:comment-format
+   // tslint:disable-next-line:max-line-length
+   // tslint:disable-next-line:comment-format
    //tv pride and prejudice, sailor moon, 7 deadly sins, durarara!, dr who, star trek, digimon, bones, castle, gg, jessica jones, alien show tbs, that 70's show, lizzie mcguire,
  ];
